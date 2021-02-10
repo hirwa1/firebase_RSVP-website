@@ -1,4 +1,4 @@
-# WTM Summit 2019 Firebase Workshop
+# HIRWA  Firebase Workshop - code less make greate
 
 Check out each step:
 * https://stackblitz.com/edit/wtm-start
